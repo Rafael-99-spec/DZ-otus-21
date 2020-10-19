@@ -1,3 +1,18 @@
 https://www.scaleway.com/en/docs/configure-prometheus-monitoring-with-grafana/          -         Install and configure Prometheus + Grafan (Ubuntu)
 
 https://www.centlinux.com/2019/11/install-grafana-prometheus-centos-7.html              -         Install and configure Prometheus + Grafan (CentOS7)
+
+______________________________________________________________________________
+			Add host - template ICMP Ping
+https://www.ekzorchik.ru/2015/09/check-the-remote-system-icmp-request/
+
+______________________________________________________________________________
+			Notification configuration
+https://www.zabbix.com/documentation/4.2/manual/quickstart/notification
+
+______________________________________________________________________________
+			Zabbix documentation
+https://www.zabbix.com/documentation
+https://www.zabbix.com/documentation/3.0/manual/web_interface/frontend_sections/administration/users				# Users
+
+______________________________________________________________________________
